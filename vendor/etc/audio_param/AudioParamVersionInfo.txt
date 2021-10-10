@@ -1,0 +1,5 @@
+chip:MT6785(CPU) + MT6359(PMIC) + AW88194(PA)
+
+product:Kxxx
+
+version:S7-GQ--20210615
